@@ -1,0 +1,107 @@
+[debug] [2019-05-27T09:59:15.941Z] ----------------------------------------------------------------------
+[debug] [2019-05-27T09:59:15.944Z] Command:       /usr/bin/node /home/paul.xiao/npm_global/bin/firebase serve --only functions,hosting
+[debug] [2019-05-27T09:59:15.944Z] CLI Version:   6.10.0
+[debug] [2019-05-27T09:59:15.944Z] Platform:      linux
+[debug] [2019-05-27T09:59:15.944Z] Node Version:  v10.3.0
+[debug] [2019-05-27T09:59:15.945Z] Time:          Mon May 27 2019 17:59:15 GMT+0800 (CST)
+[debug] [2019-05-27T09:59:15.945Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-05-27T09:59:15.964Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-05-27T09:59:15.964Z] > authorizing via signed-in user
+[debug] [2019-05-27T09:59:15.964Z] [iam] checking project paultest-9d857 for permissions ["firebase.projects.get"]
+[debug] [2019-05-27T09:59:15.969Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/paultest-9d857:testIamPermissions  
+
+[debug] [2019-05-27T09:59:17.795Z] <<< HTTP RESPONSE 200
+[debug] [2019-05-27T09:59:17.808Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/paultest-9d857  
+ 
+[debug] [2019-05-27T09:59:19.218Z] <<< HTTP RESPONSE 200
+[info] ✔  functions: Using node@10 from host.
+[debug] [2019-05-27T09:59:19.236Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/605338498294/clients/_:getWebAppConfig  
+ 
+[debug] [2019-05-27T09:59:19.241Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/605338498294:getServerAppConfig  
+ 
+[debug] [2019-05-27T09:59:21.190Z] <<< HTTP RESPONSE 200
+[info] ✔  functions: Emulator started at http://localhost:5001
+[debug] [2019-05-27T09:59:21.254Z] <<< HTTP RESPONSE 200
+[info] i  functions: Watching "/home/paul.xiao/Workspace/lab/firebase_api/functions" for Cloud Functions...
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+[debug] [2019-05-27T09:59:21.897Z] Functions runtime initialized.
+[debug] [2019-05-27T09:59:21.901Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T09:59:22.880Z] firebase-admin has been stubbed.
+[info] >  -----------------------------xxx---- ----------------------------
+[info] >  ---------------------------xx----------------------------------
+[info] i  functions: HTTP trigger initialized at http://localhost:5001/paultest-9d857/us-central1/app
+[debug] [2019-05-27T10:01:19.605Z] Accepted request GET /paultest-9d857/us-central1/app --> app
+[debug] [2019-05-27T10:01:20.018Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T10:01:20.023Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T10:01:20.810Z] firebase-admin has been stubbed.
+[info] >  -----------------------------xxx---- ----------------------------
+[info] >  ---------------------------xx----------------------------------
+[debug] [2019-05-27T10:01:21.313Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T10:01:21.313Z] 
+[debug] [2019-05-27T10:01:21.313Z] Running app in mode HTTPS
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] i  Your code does not appear to initialize the 'firebase-admin' module, so we've done it automatically.
+   - Learn more: https://firebase.google.com/docs/admin/setup
+[debug] [2019-05-27T10:01:21.325Z] {"socketPath":"/tmp/firebase_emulator_invocation_12968.sock"}
+[debug] [2019-05-27T10:01:21.333Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_12968.sock"}
+[debug] [2019-05-27T10:01:21.377Z] Ephemeral server used!
+[info] >  1111111111
+[debug] [2019-05-27T10:01:21.390Z] Ephemeral server survived.
+[info] i  functions: Finished "app" in ~1s
+[debug] [2019-05-27T10:01:25.742Z] Accepted request GET /paultest-9d857/us-central1/app/user --> app
+[debug] [2019-05-27T10:01:26.260Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T10:01:26.264Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T10:01:27.025Z] firebase-admin has been stubbed.
+[info] >  -----------------------------xxx---- ----------------------------
+[info] >  ---------------------------xx----------------------------------
+[debug] [2019-05-27T10:01:27.527Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T10:01:27.527Z] 
+[debug] [2019-05-27T10:01:27.527Z] Running app in mode HTTPS
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] i  Your code does not appear to initialize the 'firebase-admin' module, so we've done it automatically.
+   - Learn more: https://firebase.google.com/docs/admin/setup
+[debug] [2019-05-27T10:01:27.538Z] {"socketPath":"/tmp/firebase_emulator_invocation_13022.sock"}
+[debug] [2019-05-27T10:01:27.540Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_13022.sock"}
+[debug] [2019-05-27T10:01:27.573Z] Ephemeral server used!
+[debug] [2019-05-27T10:01:27.588Z] Ephemeral server survived.
+[debug] [2019-05-27T10:02:08.491Z] Accepted request POST /paultest-9d857/us-central1/app/addItem --> app
+[debug] [2019-05-27T10:02:08.913Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T10:02:08.917Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T10:02:09.668Z] firebase-admin has been stubbed.
+[info] >  -----------------------------xxx---- ----------------------------
+[info] >  ---------------------------xx----------------------------------
+[debug] [2019-05-27T10:02:10.170Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T10:02:10.171Z] 
+[debug] [2019-05-27T10:02:10.171Z] Running app in mode HTTPS
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] i  Your code does not appear to initialize the 'firebase-admin' module, so we've done it automatically.
+   - Learn more: https://firebase.google.com/docs/admin/setup
+[debug] [2019-05-27T10:02:10.182Z] {"socketPath":"/tmp/firebase_emulator_invocation_13099.sock"}
+[debug] [2019-05-27T10:02:10.188Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_13099.sock"}
+[debug] [2019-05-27T10:02:10.300Z] Ephemeral server used!
+[info] >  paulxiao
+[info] >  [object Object]
+[debug] [2019-05-27T10:02:10.321Z] Ephemeral server survived.
+[info] i  functions: Finished "app" in ~1s
+[debug] [2019-05-27T10:03:25.748Z] Accepted request GET /paultest-9d857/us-central1/app/user --> app
+[debug] [2019-05-27T10:03:26.200Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T10:03:26.208Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T10:03:27.078Z] firebase-admin has been stubbed.
+[info] >  -----------------------------xxx---- ----------------------------
+[info] >  ---------------------------xx----------------------------------
+[debug] [2019-05-27T10:03:27.708Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T10:03:27.709Z] 
+[debug] [2019-05-27T10:03:27.709Z] Running app in mode HTTPS
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] i  Your code does not appear to initialize the 'firebase-admin' module, so we've done it automatically.
+   - Learn more: https://firebase.google.com/docs/admin/setup
+[debug] [2019-05-27T10:03:27.719Z] {"socketPath":"/tmp/firebase_emulator_invocation_13217.sock"}
+[debug] [2019-05-27T10:03:27.721Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_13217.sock"}
+[debug] [2019-05-27T10:03:27.767Z] Ephemeral server used!
+[debug] [2019-05-27T10:03:27.774Z] Ephemeral server survived.

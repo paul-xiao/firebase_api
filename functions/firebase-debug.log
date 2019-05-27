@@ -1,0 +1,1705 @@
+[debug] [2019-05-27T04:02:47.639Z] ----------------------------------------------------------------------
+[debug] [2019-05-27T04:02:47.642Z] Command:       /usr/bin/node /home/paul.xiao/npm_global/bin/firebase serve --only functions
+[debug] [2019-05-27T04:02:47.642Z] CLI Version:   6.10.0
+[debug] [2019-05-27T04:02:47.642Z] Platform:      linux
+[debug] [2019-05-27T04:02:47.642Z] Node Version:  v10.3.0
+[debug] [2019-05-27T04:02:47.642Z] Time:          Mon May 27 2019 12:02:47 GMT+0800 (CST)
+[debug] [2019-05-27T04:02:47.642Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-05-27T04:02:47.659Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-05-27T04:02:47.659Z] > authorizing via signed-in user
+[debug] [2019-05-27T04:02:47.660Z] [iam] checking project paultest-9d857 for permissions ["firebase.projects.get"]
+[debug] [2019-05-27T04:02:47.662Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/paultest-9d857:testIamPermissions  
+
+[debug] [2019-05-27T04:02:51.494Z] <<< HTTP RESPONSE 200
+[debug] [2019-05-27T04:02:51.500Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/paultest-9d857  
+ 
+[debug] [2019-05-27T04:02:54.398Z] <<< HTTP RESPONSE 200
+[info] ✔  functions: Using node@10 from host.
+[debug] [2019-05-27T04:02:54.416Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/605338498294:getServerAppConfig  
+ 
+[debug] [2019-05-27T04:02:59.827Z] Error: getaddrinfo ENOTFOUND mobilesdk-pa.googleapis.com mobilesdk-pa.googleapis.com:443
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:50:26)
+[error] 
+[error] Error: Server Error. getaddrinfo ENOTFOUND mobilesdk-pa.googleapis.com mobilesdk-pa.googleapis.com:443
+[debug] [2019-05-27T04:03:22.655Z] ----------------------------------------------------------------------
+[debug] [2019-05-27T04:03:22.658Z] Command:       /usr/bin/node /home/paul.xiao/npm_global/bin/firebase serve --only functions
+[debug] [2019-05-27T04:03:22.658Z] CLI Version:   6.10.0
+[debug] [2019-05-27T04:03:22.658Z] Platform:      linux
+[debug] [2019-05-27T04:03:22.658Z] Node Version:  v10.3.0
+[debug] [2019-05-27T04:03:22.658Z] Time:          Mon May 27 2019 12:03:22 GMT+0800 (CST)
+[debug] [2019-05-27T04:03:22.658Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-05-27T04:03:22.675Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-05-27T04:03:22.675Z] > authorizing via signed-in user
+[debug] [2019-05-27T04:03:22.675Z] [iam] checking project paultest-9d857 for permissions ["firebase.projects.get"]
+[debug] [2019-05-27T04:03:22.678Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/paultest-9d857:testIamPermissions  
+
+[debug] [2019-05-27T04:03:26.261Z] <<< HTTP RESPONSE 200
+[debug] [2019-05-27T04:03:26.270Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/paultest-9d857  
+ 
+[debug] [2019-05-27T04:03:29.046Z] <<< HTTP RESPONSE 200
+[info] ✔  functions: Using node@10 from host.
+[debug] [2019-05-27T04:03:29.113Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/605338498294:getServerAppConfig  
+ 
+[debug] [2019-05-27T04:03:31.695Z] Error: getaddrinfo ENOTFOUND mobilesdk-pa.googleapis.com mobilesdk-pa.googleapis.com:443
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:50:26)
+[error] 
+[error] Error: Server Error. getaddrinfo ENOTFOUND mobilesdk-pa.googleapis.com mobilesdk-pa.googleapis.com:443
+[debug] [2019-05-27T04:03:52.199Z] ----------------------------------------------------------------------
+[debug] [2019-05-27T04:03:52.202Z] Command:       /usr/bin/node /home/paul.xiao/npm_global/bin/firebase serve --only functions
+[debug] [2019-05-27T04:03:52.203Z] CLI Version:   6.10.0
+[debug] [2019-05-27T04:03:52.203Z] Platform:      linux
+[debug] [2019-05-27T04:03:52.203Z] Node Version:  v10.3.0
+[debug] [2019-05-27T04:03:52.203Z] Time:          Mon May 27 2019 12:03:52 GMT+0800 (CST)
+[debug] [2019-05-27T04:03:52.203Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-05-27T04:03:52.220Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-05-27T04:03:52.220Z] > authorizing via signed-in user
+[debug] [2019-05-27T04:03:52.221Z] [iam] checking project paultest-9d857 for permissions ["firebase.projects.get"]
+[debug] [2019-05-27T04:03:52.223Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/paultest-9d857:testIamPermissions  
+
+[debug] [2019-05-27T04:03:55.800Z] <<< HTTP RESPONSE 200
+[debug] [2019-05-27T04:03:55.807Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/paultest-9d857  
+ 
+[debug] [2019-05-27T04:03:58.727Z] <<< HTTP RESPONSE 200
+[info] ✔  functions: Using node@10 from host.
+[debug] [2019-05-27T04:03:58.745Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/605338498294:getServerAppConfig  
+ 
+[debug] [2019-05-27T04:07:34.771Z] ----------------------------------------------------------------------
+[debug] [2019-05-27T04:07:34.774Z] Command:       /usr/bin/node /home/paul.xiao/npm_global/bin/firebase serve --only functions
+[debug] [2019-05-27T04:07:34.774Z] CLI Version:   6.10.0
+[debug] [2019-05-27T04:07:34.774Z] Platform:      linux
+[debug] [2019-05-27T04:07:34.775Z] Node Version:  v10.3.0
+[debug] [2019-05-27T04:07:34.775Z] Time:          Mon May 27 2019 12:07:34 GMT+0800 (CST)
+[debug] [2019-05-27T04:07:34.775Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-05-27T04:07:34.811Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-05-27T04:07:34.812Z] > authorizing via signed-in user
+[debug] [2019-05-27T04:07:34.812Z] [iam] checking project paultest-9d857 for permissions ["firebase.projects.get"]
+[debug] [2019-05-27T04:07:34.815Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/paultest-9d857:testIamPermissions  
+
+[debug] [2019-05-27T04:07:38.334Z] <<< HTTP RESPONSE 200
+[debug] [2019-05-27T04:07:38.339Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/paultest-9d857  
+ 
+[debug] [2019-05-27T04:07:41.451Z] <<< HTTP RESPONSE 200
+[info] ✔  functions: Using node@10 from host.
+[debug] [2019-05-27T04:07:41.473Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/605338498294:getServerAppConfig  
+ 
+[debug] [2019-05-27T04:07:43.917Z] <<< HTTP RESPONSE 200
+[info] ✔  functions: Emulator started at http://localhost:5000
+[info] i  functions: Watching "/home/paul.xiao/Workspace/lab/firebase_api/functions" for Cloud Functions...
+[debug] [2019-05-27T04:07:44.378Z] Functions runtime initialized.
+[debug] [2019-05-27T04:07:44.382Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:07:45.456Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] i  functions: HTTP trigger initialized at http://localhost:5000/paultest-9d857/us-central1/app
+[debug] [2019-05-27T04:08:24.914Z] Accepted request GET /paultest-9d857/us-central1/app --> app
+[debug] [2019-05-27T04:08:26.441Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T04:08:26.465Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:08:27.619Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[debug] [2019-05-27T04:08:28.063Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T04:08:28.064Z] 
+[debug] [2019-05-27T04:08:28.064Z] Running app in mode HTTPS
+[debug] [2019-05-27T04:08:28.073Z] {"socketPath":"/tmp/firebase_emulator_invocation_25655.sock"}
+[debug] [2019-05-27T04:08:28.080Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_25655.sock"}
+[debug] [2019-05-27T04:08:28.159Z] Ephemeral server used!
+[info] >  1111111111
+[debug] [2019-05-27T04:08:28.173Z] Ephemeral server survived.
+[info] i  functions: Finished "app" in ~1s
+[debug] [2019-05-27T04:08:31.810Z] Accepted request GET /paultest-9d857/us-central1/app/user --> app
+[debug] [2019-05-27T04:08:32.354Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T04:08:32.358Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:08:33.352Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[debug] [2019-05-27T04:08:33.849Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T04:08:33.850Z] 
+[debug] [2019-05-27T04:08:33.853Z] Running app in mode HTTPS
+[debug] [2019-05-27T04:08:33.880Z] {"socketPath":"/tmp/firebase_emulator_invocation_25717.sock"}
+[debug] [2019-05-27T04:08:33.882Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_25717.sock"}
+[debug] [2019-05-27T04:08:34.099Z] Ephemeral server used!
+[debug] [2019-05-27T04:08:34.113Z] Ephemeral server survived.
+[debug] [2019-05-27T04:08:48.443Z] Accepted request GET /paultest-9d857/us-central1/app/user --> app
+[debug] [2019-05-27T04:08:48.889Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T04:08:48.894Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:08:49.719Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[debug] [2019-05-27T04:08:50.100Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T04:08:50.101Z] 
+[debug] [2019-05-27T04:08:50.101Z] Running app in mode HTTPS
+[debug] [2019-05-27T04:08:50.111Z] {"socketPath":"/tmp/firebase_emulator_invocation_25781.sock"}
+[debug] [2019-05-27T04:08:50.115Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_25781.sock"}
+[debug] [2019-05-27T04:08:50.168Z] Ephemeral server used!
+[debug] [2019-05-27T04:08:50.179Z] Ephemeral server survived.
+[debug] [2019-05-27T04:09:14.938Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:09:16.484Z] Functions runtime initialized.
+[debug] [2019-05-27T04:09:16.486Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:09:17.277Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  Reference {
+[info] >    repo:
+[info] >     Repo {
+[info] >       repoInfo_:
+[info] >        RepoInfo {
+[info] >          secure: true,
+[info] >          namespace: 'paultest-9d857',
+[info] >          webSocketOnly: false,
+[info] >          persistenceKey: '',
+[info] >          host: 'paultest-9d857.firebaseio.com',
+[info] >          domain: 'firebaseio.com',
+[info] >          internalHost: 'paultest-9d857.firebaseio.com' },
+[info] >       app:
+[info] >        FirebaseApp {
+[info] >          firebaseInternals_: [FirebaseNamespaceInternals],
+[info] >          services_: [Object],
+[info] >          isDeleted_: false,
+[info] >          name_: '[DEFAULT]',
+[info] >          options_: [Object],
+[info] >          INTERNAL: [FirebaseAppInternals] },
+[info] >       dataUpdateCount: 0,
+[info] >       statsListener_: null,
+[info] >       eventQueue_: EventQueue { eventLists_: [], recursionDepth_: 0 },
+[info] >       nextWriteId_: 1,
+[info] >       interceptServerDataCallback_: null,
+[info] >       onDisconnect_: SparseSnapshotTree { value_: null, children_: null },
+[info] >       persistentConnection_:
+[info] >        PersistentConnection {
+[info] >          repoInfo_: [RepoInfo],
+[info] >          onDataUpdate_: [Function: bound ],
+[info] >          onConnectStatus_: [Function: bound ],
+[info] >          onServerInfoUpdate_: [Function: bound ],
+[info] >          authTokenProvider_: [AuthTokenProvider],
+[info] >          authOverride_: undefined,
+[info] >          id: 0,
+[info] >          log_: [Function],
+[info] >          interruptReasons_: {},
+[info] >          listens_: {},
+[info] >          outstandingPuts_: [],
+[info] >          outstandingPutCount_: 0,
+[info] >          onDisconnectRequestQueue_: [],
+[info] >          connected_: false,
+[info] >          reconnectDelay_: 1000,
+[info] >          maxReconnectDelay_: 300000,
+[info] >          securityDebugCallback_: null,
+[info] >          lastSessionId: null,
+[info] >          establishConnectionTimer_: [Timeout],
+[info] >          visible_: true,
+[info] >          requestCBHash_: {},
+[info] >          requestNumber_: 0,
+[info] >          realtime_: null,
+[info] >          authToken_: null,
+[info] >          forceTokenRefresh_: false,
+[info] >          invalidAuthTokenCount_: 0,
+[info] >          firstConnection_: true,
+[info] >          lastConnectionAttemptTime_: null,
+[info] >          lastConnectionEstablishedTime_: null },
+[info] >       stats_: StatsCollection { counters_: {} },
+[info] >       server_:
+[info] >        PersistentConnection {
+[info] >          repoInfo_: [RepoInfo],
+[info] >          onDataUpdate_: [Function: bound ],
+[info] >          onConnectStatus_: [Function: bound ],
+[info] >          onServerInfoUpdate_: [Function: bound ],
+[info] >          authTokenProvider_: [AuthTokenProvider],
+[info] >          authOverride_: undefined,
+[info] >          id: 0,
+[info] >          log_: [Function],
+[info] >          interruptReasons_: {},
+[info] >          listens_: {},
+[info] >          outstandingPuts_: [],
+[info] >          outstandingPutCount_: 0,
+[info] >          onDisconnectRequestQueue_: [],
+[info] >          connected_: false,
+[info] >          reconnectDelay_: 1000,
+[info] >          maxReconnectDelay_: 300000,
+[info] >          securityDebugCallback_: null,
+[info] >          lastSessionId: null,
+[info] >          establishConnectionTimer_: [Timeout],
+[info] >          visible_: true,
+[info] >          requestCBHash_: {},
+[info] >          requestNumber_: 0,
+[info] >          realtime_: null,
+[info] >          authToken_: null,
+[info] >          forceTokenRefresh_: false,
+[info] >          invalidAuthTokenCount_: 0,
+[info] >          firstConnection_: true,
+[info] >          lastConnectionAttemptTime_: null,
+[info] >          lastConnectionEstablishedTime_: null },
+[info] >       statsReporter_:
+[info] >        StatsReporter {
+[info] >          server_: [PersistentConnection],
+[info] >          statsToReport_: {},
+[info] >          statsListener_: [StatsListener] },
+[info] >       transactionQueueTree_: Tree { name_: '', parent_: null, node_: [TreeNode] },
+[info] >       infoData_: SnapshotHolder { rootNode_: [ChildrenNode] },
+[info] >       infoSyncTree_:
+[info] >        SyncTree {
+[info] >          listenProvider_: [Object],
+[info] >          syncPointTree_: [ImmutableTree],
+[info] >          pendingWriteTree_: [WriteTree],
+[info] >          tagToQueryMap_: {},
+[info] >          queryToTagMap_: {} },
+[info] >       serverSyncTree_:
+[info] >        SyncTree {
+[info] >          listenProvider_: [Object],
+[info] >          syncPointTree_: [ImmutableTree],
+[info] >          pendingWriteTree_: [WriteTree],
+[info] >          tagToQueryMap_: {},
+[info] >          queryToTagMap_: {} },
+[info] >       __database:
+[info] >        Database {
+[info] >          repo_: [Circular],
+[info] >          root_: [Reference],
+[info] >          INTERNAL: [DatabaseInternals] } },
+[info] >    path: Path { pieces_: [ 'user' ], pieceNum_: 0 },
+[info] >    queryParams_:
+[info] >     QueryParams {
+[info] >       limitSet_: false,
+[info] >       startSet_: false,
+[info] >       startNameSet_: false,
+[info] >       endSet_: false,
+[info] >       endNameSet_: false,
+[info] >       limit_: 0,
+[info] >       viewFrom_: '',
+[info] >       indexStartValue_: null,
+[info] >       indexStartName_: '',
+[info] >       indexEndValue_: null,
+[info] >       indexEndName_: '',
+[info] >       index_: PriorityIndex {} },
+[info] >    orderByCalled_: false }
+[debug] [2019-05-27T04:09:26.781Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:09:28.311Z] Functions runtime initialized.
+[debug] [2019-05-27T04:09:28.316Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:09:29.217Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  Reference {
+[info] >    repo:
+[info] >     Repo {
+[info] >       repoInfo_:
+[info] >        RepoInfo {
+[info] >          secure: true,
+[info] >          namespace: 'paultest-9d857',
+[info] >          webSocketOnly: false,
+[info] >          persistenceKey: '',
+[info] >          host: 'paultest-9d857.firebaseio.com',
+[info] >          domain: 'firebaseio.com',
+[info] >          internalHost: 'paultest-9d857.firebaseio.com' },
+[info] >       app:
+[info] >        FirebaseApp {
+[info] >          firebaseInternals_: [FirebaseNamespaceInternals],
+[info] >          services_: [Object],
+[info] >          isDeleted_: false,
+[info] >          name_: '[DEFAULT]',
+[info] >          options_: [Object],
+[info] >          INTERNAL: [FirebaseAppInternals] },
+[info] >       dataUpdateCount: 0,
+[info] >       statsListener_: null,
+[info] >       eventQueue_: EventQueue { eventLists_: [], recursionDepth_: 0 },
+[info] >       nextWriteId_: 1,
+[info] >       interceptServerDataCallback_: null,
+[info] >       onDisconnect_: SparseSnapshotTree { value_: null, children_: null },
+[info] >       persistentConnection_:
+[info] >        PersistentConnection {
+[info] >          repoInfo_: [RepoInfo],
+[info] >          onDataUpdate_: [Function: bound ],
+[info] >          onConnectStatus_: [Function: bound ],
+[info] >          onServerInfoUpdate_: [Function: bound ],
+[info] >          authTokenProvider_: [AuthTokenProvider],
+[info] >          authOverride_: undefined,
+[info] >          id: 0,
+[info] >          log_: [Function],
+[info] >          interruptReasons_: {},
+[info] >          listens_: {},
+[info] >          outstandingPuts_: [],
+[info] >          outstandingPutCount_: 0,
+[info] >          onDisconnectRequestQueue_: [],
+[info] >          connected_: false,
+[info] >          reconnectDelay_: 1000,
+[info] >          maxReconnectDelay_: 300000,
+[info] >          securityDebugCallback_: null,
+[info] >          lastSessionId: null,
+[info] >          establishConnectionTimer_: [Timeout],
+[info] >          visible_: true,
+[info] >          requestCBHash_: {},
+[info] >          requestNumber_: 0,
+[info] >          realtime_: null,
+[info] >          authToken_: null,
+[info] >          forceTokenRefresh_: false,
+[info] >          invalidAuthTokenCount_: 0,
+[info] >          firstConnection_: true,
+[info] >          lastConnectionAttemptTime_: null,
+[info] >          lastConnectionEstablishedTime_: null },
+[info] >       stats_: StatsCollection { counters_: {} },
+[info] >       server_:
+[info] >        PersistentConnection {
+[info] >          repoInfo_: [RepoInfo],
+[info] >          onDataUpdate_: [Function: bound ],
+[info] >          onConnectStatus_: [Function: bound ],
+[info] >          onServerInfoUpdate_: [Function: bound ],
+[info] >          authTokenProvider_: [AuthTokenProvider],
+[info] >          authOverride_: undefined,
+[info] >          id: 0,
+[info] >          log_: [Function],
+[info] >          interruptReasons_: {},
+[info] >          listens_: {},
+[info] >          outstandingPuts_: [],
+[info] >          outstandingPutCount_: 0,
+[info] >          onDisconnectRequestQueue_: [],
+[info] >          connected_: false,
+[info] >          reconnectDelay_: 1000,
+[info] >          maxReconnectDelay_: 300000,
+[info] >          securityDebugCallback_: null,
+[info] >          lastSessionId: null,
+[info] >          establishConnectionTimer_: [Timeout],
+[info] >          visible_: true,
+[info] >          requestCBHash_: {},
+[info] >          requestNumber_: 0,
+[info] >          realtime_: null,
+[info] >          authToken_: null,
+[info] >          forceTokenRefresh_: false,
+[info] >          invalidAuthTokenCount_: 0,
+[info] >          firstConnection_: true,
+[info] >          lastConnectionAttemptTime_: null,
+[info] >          lastConnectionEstablishedTime_: null },
+[info] >       statsReporter_:
+[info] >        StatsReporter {
+[info] >          server_: [PersistentConnection],
+[info] >          statsToReport_: {},
+[info] >          statsListener_: [StatsListener] },
+[info] >       transactionQueueTree_: Tree { name_: '', parent_: null, node_: [TreeNode] },
+[info] >       infoData_: SnapshotHolder { rootNode_: [ChildrenNode] },
+[info] >       infoSyncTree_:
+[info] >        SyncTree {
+[info] >          listenProvider_: [Object],
+[info] >          syncPointTree_: [ImmutableTree],
+[info] >          pendingWriteTree_: [WriteTree],
+[info] >          tagToQueryMap_: {},
+[info] >          queryToTagMap_: {} },
+[info] >       serverSyncTree_:
+[info] >        SyncTree {
+[info] >          listenProvider_: [Object],
+[info] >          syncPointTree_: [ImmutableTree],
+[info] >          pendingWriteTree_: [WriteTree],
+[info] >          tagToQueryMap_: {},
+[info] >          queryToTagMap_: {} },
+[info] >       __database:
+[info] >        Database {
+[info] >          repo_: [Circular],
+[info] >          root_: [Reference],
+[info] >          INTERNAL: [DatabaseInternals] } },
+[info] >    path: Path { pieces_: [ 'user' ], pieceNum_: 0 },
+[info] >    queryParams_:
+[info] >     QueryParams {
+[info] >       limitSet_: false,
+[info] >       startSet_: false,
+[info] >       startNameSet_: false,
+[info] >       endSet_: false,
+[info] >       endNameSet_: false,
+[info] >       limit_: 0,
+[info] >       viewFrom_: '',
+[info] >       indexStartValue_: null,
+[info] >       indexStartName_: '',
+[info] >       indexEndValue_: null,
+[info] >       indexEndName_: '',
+[info] >       index_: PriorityIndex {} },
+[info] >    orderByCalled_: false }
+[debug] [2019-05-27T04:09:53.066Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:09:54.608Z] Functions runtime initialized.
+[debug] [2019-05-27T04:09:54.615Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:09:55.477Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[info] >  Reference {
+[info] >    repo:
+[info] >     Repo {
+[info] >       repoInfo_:
+[info] >        RepoInfo {
+[info] >          secure: true,
+[info] >          namespace: 'paultest-9d857',
+[info] >          webSocketOnly: false,
+[info] >          persistenceKey: '',
+[info] >          host: 'paultest-9d857.firebaseio.com',
+[info] >          domain: 'firebaseio.com',
+[info] >          internalHost: 'paultest-9d857.firebaseio.com' },
+[info] >       app:
+[info] >        FirebaseApp {
+[info] >          firebaseInternals_: [FirebaseNamespaceInternals],
+[info] >          services_: [Object],
+[info] >          isDeleted_: false,
+[info] >          name_: '[DEFAULT]',
+[info] >          options_: [Object],
+[info] >          INTERNAL: [FirebaseAppInternals] },
+[info] >       dataUpdateCount: 0,
+[info] >       statsListener_: null,
+[info] >       eventQueue_: EventQueue { eventLists_: [], recursionDepth_: 0 },
+[info] >       nextWriteId_: 1,
+[info] >       interceptServerDataCallback_: null,
+[info] >       onDisconnect_: SparseSnapshotTree { value_: null, children_: null },
+[info] >       persistentConnection_:
+[info] >        PersistentConnection {
+[info] >          repoInfo_: [RepoInfo],
+[info] >          onDataUpdate_: [Function: bound ],
+[info] >          onConnectStatus_: [Function: bound ],
+[info] >          onServerInfoUpdate_: [Function: bound ],
+[info] >          authTokenProvider_: [AuthTokenProvider],
+[info] >          authOverride_: undefined,
+[info] >          id: 0,
+[info] >          log_: [Function],
+[info] >          interruptReasons_: {},
+[info] >          listens_: {},
+[info] >          outstandingPuts_: [],
+[info] >          outstandingPutCount_: 0,
+[info] >          onDisconnectRequestQueue_: [],
+[info] >          connected_: false,
+[info] >          reconnectDelay_: 1000,
+[info] >          maxReconnectDelay_: 300000,
+[info] >          securityDebugCallback_: null,
+[info] >          lastSessionId: null,
+[info] >          establishConnectionTimer_: [Timeout],
+[info] >          visible_: true,
+[info] >          requestCBHash_: {},
+[info] >          requestNumber_: 0,
+[info] >          realtime_: null,
+[info] >          authToken_: null,
+[info] >          forceTokenRefresh_: false,
+[info] >          invalidAuthTokenCount_: 0,
+[info] >          firstConnection_: true,
+[info] >          lastConnectionAttemptTime_: null,
+[info] >          lastConnectionEstablishedTime_: null },
+[info] >       stats_: StatsCollection { counters_: {} },
+[info] >       server_:
+[info] >        PersistentConnection {
+[info] >          repoInfo_: [RepoInfo],
+[info] >          onDataUpdate_: [Function: bound ],
+[info] >          onConnectStatus_: [Function: bound ],
+[info] >          onServerInfoUpdate_: [Function: bound ],
+[info] >          authTokenProvider_: [AuthTokenProvider],
+[info] >          authOverride_: undefined,
+[info] >          id: 0,
+[info] >          log_: [Function],
+[info] >          interruptReasons_: {},
+[info] >          listens_: {},
+[info] >          outstandingPuts_: [],
+[info] >          outstandingPutCount_: 0,
+[info] >          onDisconnectRequestQueue_: [],
+[info] >          connected_: false,
+[info] >          reconnectDelay_: 1000,
+[info] >          maxReconnectDelay_: 300000,
+[info] >          securityDebugCallback_: null,
+[info] >          lastSessionId: null,
+[info] >          establishConnectionTimer_: [Timeout],
+[info] >          visible_: true,
+[info] >          requestCBHash_: {},
+[info] >          requestNumber_: 0,
+[info] >          realtime_: null,
+[info] >          authToken_: null,
+[info] >          forceTokenRefresh_: false,
+[info] >          invalidAuthTokenCount_: 0,
+[info] >          firstConnection_: true,
+[info] >          lastConnectionAttemptTime_: null,
+[info] >          lastConnectionEstablishedTime_: null },
+[info] >       statsReporter_:
+[info] >        StatsReporter {
+[info] >          server_: [PersistentConnection],
+[info] >          statsToReport_: {},
+[info] >          statsListener_: [StatsListener] },
+[info] >       transactionQueueTree_: Tree { name_: '', parent_: null, node_: [TreeNode] },
+[info] >       infoData_: SnapshotHolder { rootNode_: [ChildrenNode] },
+[info] >       infoSyncTree_:
+[info] >        SyncTree {
+[info] >          listenProvider_: [Object],
+[info] >          syncPointTree_: [ImmutableTree],
+[info] >          pendingWriteTree_: [WriteTree],
+[info] >          tagToQueryMap_: {},
+[info] >          queryToTagMap_: {} },
+[info] >       serverSyncTree_:
+[info] >        SyncTree {
+[info] >          listenProvider_: [Object],
+[info] >          syncPointTree_: [ImmutableTree],
+[info] >          pendingWriteTree_: [WriteTree],
+[info] >          tagToQueryMap_: {},
+[info] >          queryToTagMap_: {} },
+[info] >       __database:
+[info] >        Database {
+[info] >          repo_: [Circular],
+[info] >          root_: [Reference],
+[info] >          INTERNAL: [DatabaseInternals] } },
+[info] >    path: Path { pieces_: [ 'user' ], pieceNum_: 0 },
+[info] >    queryParams_:
+[info] >     QueryParams {
+[info] >       limitSet_: false,
+[info] >       startSet_: false,
+[info] >       startNameSet_: false,
+[info] >       endSet_: false,
+[info] >       endNameSet_: false,
+[info] >       limit_: 0,
+[info] >       viewFrom_: '',
+[info] >       indexStartValue_: null,
+[info] >       indexStartName_: '',
+[info] >       indexEndValue_: null,
+[info] >       indexEndName_: '',
+[info] >       index_: PriorityIndex {} },
+[info] >    orderByCalled_: false }
+[debug] [2019-05-27T04:10:31.818Z] Accepted request GET /paultest-9d857/us-central1/app/user --> app
+[debug] [2019-05-27T04:10:32.390Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T04:10:32.395Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:10:33.182Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[info] >  Reference {
+[info] >    repo:
+[info] >     Repo {
+[info] >       repoInfo_:
+[info] >        RepoInfo {
+[info] >          secure: true,
+[info] >          namespace: 'paultest-9d857',
+[info] >          webSocketOnly: false,
+[info] >          persistenceKey: '',
+[info] >          host: 'paultest-9d857.firebaseio.com',
+[info] >          domain: 'firebaseio.com',
+[info] >          internalHost: 'paultest-9d857.firebaseio.com' },
+[info] >       app:
+[info] >        FirebaseApp {
+[info] >          firebaseInternals_: [FirebaseNamespaceInternals],
+[info] >          services_: [Object],
+[info] >          isDeleted_: false,
+[info] >          name_: '[DEFAULT]',
+[info] >          options_: [Object],
+[info] >          INTERNAL: [FirebaseAppInternals] },
+[info] >       dataUpdateCount: 0,
+[info] >       statsListener_: null,
+[info] >       eventQueue_: EventQueue { eventLists_: [], recursionDepth_: 0 },
+[info] >       nextWriteId_: 1,
+[info] >       interceptServerDataCallback_: null,
+[info] >       onDisconnect_: SparseSnapshotTree { value_: null, children_: null },
+[info] >       persistentConnection_:
+[info] >        PersistentConnection {
+[info] >          repoInfo_: [RepoInfo],
+[info] >          onDataUpdate_: [Function: bound ],
+[info] >          onConnectStatus_: [Function: bound ],
+[info] >          onServerInfoUpdate_: [Function: bound ],
+[info] >          authTokenProvider_: [AuthTokenProvider],
+[info] >          authOverride_: undefined,
+[info] >          id: 0,
+[info] >          log_: [Function],
+[info] >          interruptReasons_: {},
+[info] >          listens_: {},
+[info] >          outstandingPuts_: [],
+[info] >          outstandingPutCount_: 0,
+[info] >          onDisconnectRequestQueue_: [],
+[info] >          connected_: false,
+[info] >          reconnectDelay_: 1000,
+[info] >          maxReconnectDelay_: 300000,
+[info] >          securityDebugCallback_: null,
+[info] >          lastSessionId: null,
+[info] >          establishConnectionTimer_: [Timeout],
+[info] >          visible_: true,
+[info] >          requestCBHash_: {},
+[info] >          requestNumber_: 0,
+[info] >          realtime_: null,
+[info] >          authToken_: null,
+[info] >          forceTokenRefresh_: false,
+[info] >          invalidAuthTokenCount_: 0,
+[info] >          firstConnection_: true,
+[info] >          lastConnectionAttemptTime_: null,
+[info] >          lastConnectionEstablishedTime_: null },
+[info] >       stats_: StatsCollection { counters_: {} },
+[info] >       server_:
+[info] >        PersistentConnection {
+[info] >          repoInfo_: [RepoInfo],
+[info] >          onDataUpdate_: [Function: bound ],
+[info] >          onConnectStatus_: [Function: bound ],
+[info] >          onServerInfoUpdate_: [Function: bound ],
+[info] >          authTokenProvider_: [AuthTokenProvider],
+[info] >          authOverride_: undefined,
+[info] >          id: 0,
+[info] >          log_: [Function],
+[info] >          interruptReasons_: {},
+[info] >          listens_: {},
+[info] >          outstandingPuts_: [],
+[info] >          outstandingPutCount_: 0,
+[info] >          onDisconnectRequestQueue_: [],
+[info] >          connected_: false,
+[info] >          reconnectDelay_: 1000,
+[info] >          maxReconnectDelay_: 300000,
+[info] >          securityDebugCallback_: null,
+[info] >          lastSessionId: null,
+[info] >          establishConnectionTimer_: [Timeout],
+[info] >          visible_: true,
+[info] >          requestCBHash_: {},
+[info] >          requestNumber_: 0,
+[info] >          realtime_: null,
+[info] >          authToken_: null,
+[info] >          forceTokenRefresh_: false,
+[info] >          invalidAuthTokenCount_: 0,
+[info] >          firstConnection_: true,
+[info] >          lastConnectionAttemptTime_: null,
+[info] >          lastConnectionEstablishedTime_: null },
+[info] >       statsReporter_:
+[info] >        StatsReporter {
+[info] >          server_: [PersistentConnection],
+[info] >          statsToReport_: {},
+[info] >          statsListener_: [StatsListener] },
+[info] >       transactionQueueTree_: Tree { name_: '', parent_: null, node_: [TreeNode] },
+[info] >       infoData_: SnapshotHolder { rootNode_: [ChildrenNode] },
+[info] >       infoSyncTree_:
+[info] >        SyncTree {
+[info] >          listenProvider_: [Object],
+[info] >          syncPointTree_: [ImmutableTree],
+[info] >          pendingWriteTree_: [WriteTree],
+[info] >          tagToQueryMap_: {},
+[info] >          queryToTagMap_: {} },
+[info] >       serverSyncTree_:
+[info] >        SyncTree {
+[info] >          listenProvider_: [Object],
+[info] >          syncPointTree_: [ImmutableTree],
+[info] >          pendingWriteTree_: [WriteTree],
+[info] >          tagToQueryMap_: {},
+[info] >          queryToTagMap_: {} },
+[info] >       __database:
+[info] >        Database {
+[info] >          repo_: [Circular],
+[info] >          root_: [Reference],
+[info] >          INTERNAL: [DatabaseInternals] } },
+[info] >    path: Path { pieces_: [ 'user' ], pieceNum_: 0 },
+[info] >    queryParams_:
+[info] >     QueryParams {
+[info] >       limitSet_: false,
+[info] >       startSet_: false,
+[info] >       startNameSet_: false,
+[info] >       endSet_: false,
+[info] >       endNameSet_: false,
+[info] >       limit_: 0,
+[info] >       viewFrom_: '',
+[info] >       indexStartValue_: null,
+[info] >       indexStartName_: '',
+[info] >       indexEndValue_: null,
+[info] >       indexEndName_: '',
+[info] >       index_: PriorityIndex {} },
+[info] >    orderByCalled_: false }
+[debug] [2019-05-27T04:10:33.574Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T04:10:33.574Z] 
+[debug] [2019-05-27T04:10:33.574Z] Running app in mode HTTPS
+[debug] [2019-05-27T04:10:33.574Z] {"socketPath":"/tmp/firebase_emulator_invocation_26091.sock"}
+[debug] [2019-05-27T04:10:33.575Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_26091.sock"}
+[debug] [2019-05-27T04:10:33.602Z] Ephemeral server used!
+[debug] [2019-05-27T04:10:33.602Z] Ephemeral server survived.
+[debug] [2019-05-27T04:12:17.754Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:12:19.271Z] Functions runtime initialized.
+[debug] [2019-05-27T04:12:19.282Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:12:20.126Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[info] >  Reference {
+[info] >    repo:
+[info] >     Repo {
+[info] >       repoInfo_:
+[info] >        RepoInfo {
+[info] >          secure: true,
+[info] >          namespace: 'paultest-9d857',
+[info] >          webSocketOnly: false,
+[info] >          persistenceKey: '',
+[info] >          host: 'paultest-9d857.firebaseio.com',
+[info] >          domain: 'firebaseio.com',
+[info] >          internalHost: 'paultest-9d857.firebaseio.com' },
+[info] >       app:
+[info] >        FirebaseApp {
+[info] >          firebaseInternals_: [FirebaseNamespaceInternals],
+[info] >          services_: [Object],
+[info] >          isDeleted_: false,
+[info] >          name_: '[DEFAULT]',
+[info] >          options_: [Object],
+[info] >          INTERNAL: [FirebaseAppInternals] },
+[info] >       dataUpdateCount: 0,
+[info] >       statsListener_: null,
+[info] >       eventQueue_: EventQueue { eventLists_: [], recursionDepth_: 0 },
+[info] >       nextWriteId_: 1,
+[info] >       interceptServerDataCallback_: null,
+[info] >       onDisconnect_: SparseSnapshotTree { value_: null, children_: null },
+[info] >       persistentConnection_:
+[info] >        PersistentConnection {
+[info] >          repoInfo_: [RepoInfo],
+[info] >          onDataUpdate_: [Function: bound ],
+[info] >          onConnectStatus_: [Function: bound ],
+[info] >          onServerInfoUpdate_: [Function: bound ],
+[info] >          authTokenProvider_: [AuthTokenProvider],
+[info] >          authOverride_: undefined,
+[info] >          id: 0,
+[info] >          log_: [Function],
+[info] >          interruptReasons_: {},
+[info] >          listens_: {},
+[info] >          outstandingPuts_: [],
+[info] >          outstandingPutCount_: 0,
+[info] >          onDisconnectRequestQueue_: [],
+[info] >          connected_: false,
+[info] >          reconnectDelay_: 1000,
+[info] >          maxReconnectDelay_: 300000,
+[info] >          securityDebugCallback_: null,
+[info] >          lastSessionId: null,
+[info] >          establishConnectionTimer_: [Timeout],
+[info] >          visible_: true,
+[info] >          requestCBHash_: {},
+[info] >          requestNumber_: 0,
+[info] >          realtime_: null,
+[info] >          authToken_: null,
+[info] >          forceTokenRefresh_: false,
+[info] >          invalidAuthTokenCount_: 0,
+[info] >          firstConnection_: true,
+[info] >          lastConnectionAttemptTime_: null,
+[info] >          lastConnectionEstablishedTime_: null },
+[info] >       stats_: StatsCollection { counters_: {} },
+[info] >       server_:
+[info] >        PersistentConnection {
+[info] >          repoInfo_: [RepoInfo],
+[info] >          onDataUpdate_: [Function: bound ],
+[info] >          onConnectStatus_: [Function: bound ],
+[info] >          onServerInfoUpdate_: [Function: bound ],
+[info] >          authTokenProvider_: [AuthTokenProvider],
+[info] >          authOverride_: undefined,
+[info] >          id: 0,
+[info] >          log_: [Function],
+[info] >          interruptReasons_: {},
+[info] >          listens_: {},
+[info] >          outstandingPuts_: [],
+[info] >          outstandingPutCount_: 0,
+[info] >          onDisconnectRequestQueue_: [],
+[info] >          connected_: false,
+[info] >          reconnectDelay_: 1000,
+[info] >          maxReconnectDelay_: 300000,
+[info] >          securityDebugCallback_: null,
+[info] >          lastSessionId: null,
+[info] >          establishConnectionTimer_: [Timeout],
+[info] >          visible_: true,
+[info] >          requestCBHash_: {},
+[info] >          requestNumber_: 0,
+[info] >          realtime_: null,
+[info] >          authToken_: null,
+[info] >          forceTokenRefresh_: false,
+[info] >          invalidAuthTokenCount_: 0,
+[info] >          firstConnection_: true,
+[info] >          lastConnectionAttemptTime_: null,
+[info] >          lastConnectionEstablishedTime_: null },
+[info] >       statsReporter_:
+[info] >        StatsReporter {
+[info] >          server_: [PersistentConnection],
+[info] >          statsToReport_: {},
+[info] >          statsListener_: [StatsListener] },
+[info] >       transactionQueueTree_: Tree { name_: '', parent_: null, node_: [TreeNode] },
+[info] >       infoData_: SnapshotHolder { rootNode_: [ChildrenNode] },
+[info] >       infoSyncTree_:
+[info] >        SyncTree {
+[info] >          listenProvider_: [Object],
+[info] >          syncPointTree_: [ImmutableTree],
+[info] >          pendingWriteTree_: [WriteTree],
+[info] >          tagToQueryMap_: {},
+[info] >          queryToTagMap_: {} },
+[info] >       serverSyncTree_:
+[info] >        SyncTree {
+[info] >          listenProvider_: [Object],
+[info] >          syncPointTree_: [ImmutableTree],
+[info] >          pendingWriteTree_: [WriteTree],
+[info] >          tagToQueryMap_: {},
+[info] >          queryToTagMap_: {} },
+[info] >       __database:
+[info] >        Database {
+[info] >          repo_: [Circular],
+[info] >          root_: [Reference],
+[info] >          INTERNAL: [DatabaseInternals] } },
+[info] >    path: Path { pieces_: [ 'user' ], pieceNum_: 0 },
+[info] >    queryParams_:
+[info] >     QueryParams {
+[info] >       limitSet_: false,
+[info] >       startSet_: false,
+[info] >       startNameSet_: false,
+[info] >       endSet_: false,
+[info] >       endNameSet_: false,
+[info] >       limit_: 0,
+[info] >       viewFrom_: '',
+[info] >       indexStartValue_: null,
+[info] >       indexStartName_: '',
+[info] >       indexEndValue_: null,
+[info] >       indexEndName_: '',
+[info] >       index_: PriorityIndex {} },
+[info] >    orderByCalled_: false }
+[debug] [2019-05-27T04:12:22.844Z] Accepted request GET /paultest-9d857/us-central1/app --> app
+[debug] [2019-05-27T04:12:23.388Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T04:12:23.390Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:12:24.221Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[info] >  Reference {
+[info] >    repo:
+[info] >     Repo {
+[info] >       repoInfo_:
+[info] >        RepoInfo {
+[info] >          secure: true,
+[info] >          namespace: 'paultest-9d857',
+[info] >          webSocketOnly: false,
+[info] >          persistenceKey: '',
+[info] >          host: 'paultest-9d857.firebaseio.com',
+[info] >          domain: 'firebaseio.com',
+[info] >          internalHost: 'paultest-9d857.firebaseio.com' },
+[info] >       app:
+[info] >        FirebaseApp {
+[info] >          firebaseInternals_: [FirebaseNamespaceInternals],
+[info] >          services_: [Object],
+[info] >          isDeleted_: false,
+[info] >          name_: '[DEFAULT]',
+[info] >          options_: [Object],
+[info] >          INTERNAL: [FirebaseAppInternals] },
+[info] >       dataUpdateCount: 0,
+[info] >       statsListener_: null,
+[info] >       eventQueue_: EventQueue { eventLists_: [], recursionDepth_: 0 },
+[info] >       nextWriteId_: 1,
+[info] >       interceptServerDataCallback_: null,
+[info] >       onDisconnect_: SparseSnapshotTree { value_: null, children_: null },
+[info] >       persistentConnection_:
+[info] >        PersistentConnection {
+[info] >          repoInfo_: [RepoInfo],
+[info] >          onDataUpdate_: [Function: bound ],
+[info] >          onConnectStatus_: [Function: bound ],
+[info] >          onServerInfoUpdate_: [Function: bound ],
+[info] >          authTokenProvider_: [AuthTokenProvider],
+[info] >          authOverride_: undefined,
+[info] >          id: 0,
+[info] >          log_: [Function],
+[info] >          interruptReasons_: {},
+[info] >          listens_: {},
+[info] >          outstandingPuts_: [],
+[info] >          outstandingPutCount_: 0,
+[info] >          onDisconnectRequestQueue_: [],
+[info] >          connected_: false,
+[info] >          reconnectDelay_: 1000,
+[info] >          maxReconnectDelay_: 300000,
+[info] >          securityDebugCallback_: null,
+[info] >          lastSessionId: null,
+[info] >          establishConnectionTimer_: [Timeout],
+[info] >          visible_: true,
+[info] >          requestCBHash_: {},
+[info] >          requestNumber_: 0,
+[info] >          realtime_: null,
+[info] >          authToken_: null,
+[info] >          forceTokenRefresh_: false,
+[info] >          invalidAuthTokenCount_: 0,
+[info] >          firstConnection_: true,
+[info] >          lastConnectionAttemptTime_: null,
+[info] >          lastConnectionEstablishedTime_: null },
+[info] >       stats_: StatsCollection { counters_: {} },
+[info] >       server_:
+[info] >        PersistentConnection {
+[info] >          repoInfo_: [RepoInfo],
+[info] >          onDataUpdate_: [Function: bound ],
+[info] >          onConnectStatus_: [Function: bound ],
+[info] >          onServerInfoUpdate_: [Function: bound ],
+[info] >          authTokenProvider_: [AuthTokenProvider],
+[info] >          authOverride_: undefined,
+[info] >          id: 0,
+[info] >          log_: [Function],
+[info] >          interruptReasons_: {},
+[info] >          listens_: {},
+[info] >          outstandingPuts_: [],
+[info] >          outstandingPutCount_: 0,
+[info] >          onDisconnectRequestQueue_: [],
+[info] >          connected_: false,
+[info] >          reconnectDelay_: 1000,
+[info] >          maxReconnectDelay_: 300000,
+[info] >          securityDebugCallback_: null,
+[info] >          lastSessionId: null,
+[info] >          establishConnectionTimer_: [Timeout],
+[info] >          visible_: true,
+[info] >          requestCBHash_: {},
+[info] >          requestNumber_: 0,
+[info] >          realtime_: null,
+[info] >          authToken_: null,
+[info] >          forceTokenRefresh_: false,
+[info] >          invalidAuthTokenCount_: 0,
+[info] >          firstConnection_: true,
+[info] >          lastConnectionAttemptTime_: null,
+[info] >          lastConnectionEstablishedTime_: null },
+[info] >       statsReporter_:
+[info] >        StatsReporter {
+[info] >          server_: [PersistentConnection],
+[info] >          statsToReport_: {},
+[info] >          statsListener_: [StatsListener] },
+[info] >       transactionQueueTree_: Tree { name_: '', parent_: null, node_: [TreeNode] },
+[info] >       infoData_: SnapshotHolder { rootNode_: [ChildrenNode] },
+[info] >       infoSyncTree_:
+[info] >        SyncTree {
+[info] >          listenProvider_: [Object],
+[info] >          syncPointTree_: [ImmutableTree],
+[info] >          pendingWriteTree_: [WriteTree],
+[info] >          tagToQueryMap_: {},
+[info] >          queryToTagMap_: {} },
+[info] >       serverSyncTree_:
+[info] >        SyncTree {
+[info] >          listenProvider_: [Object],
+[info] >          syncPointTree_: [ImmutableTree],
+[info] >          pendingWriteTree_: [WriteTree],
+[info] >          tagToQueryMap_: {},
+[info] >          queryToTagMap_: {} },
+[info] >       __database:
+[info] >        Database {
+[info] >          repo_: [Circular],
+[info] >          root_: [Reference],
+[info] >          INTERNAL: [DatabaseInternals] } },
+[info] >    path: Path { pieces_: [ 'user' ], pieceNum_: 0 },
+[info] >    queryParams_:
+[info] >     QueryParams {
+[info] >       limitSet_: false,
+[info] >       startSet_: false,
+[info] >       startNameSet_: false,
+[info] >       endSet_: false,
+[info] >       endNameSet_: false,
+[info] >       limit_: 0,
+[info] >       viewFrom_: '',
+[info] >       indexStartValue_: null,
+[info] >       indexStartName_: '',
+[info] >       indexEndValue_: null,
+[info] >       indexEndName_: '',
+[info] >       index_: PriorityIndex {} },
+[info] >    orderByCalled_: false }
+[debug] [2019-05-27T04:12:24.612Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T04:12:24.612Z] 
+[debug] [2019-05-27T04:12:24.612Z] Running app in mode HTTPS
+[debug] [2019-05-27T04:12:24.613Z] {"socketPath":"/tmp/firebase_emulator_invocation_26270.sock"}
+[debug] [2019-05-27T04:12:24.614Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_26270.sock"}
+[debug] [2019-05-27T04:12:24.707Z] Ephemeral server used!
+[info] >  1111111111
+[debug] [2019-05-27T04:12:24.731Z] Ephemeral server survived.
+[info] i  functions: Finished "app" in ~1s
+[debug] [2019-05-27T04:12:30.007Z] Accepted request GET /paultest-9d857/us-central1/app/user --> app
+[debug] [2019-05-27T04:12:30.481Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T04:12:30.484Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:12:31.264Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[info] >  Reference {
+[info] >    repo:
+[info] >     Repo {
+[info] >       repoInfo_:
+[info] >        RepoInfo {
+[info] >          secure: true,
+[info] >          namespace: 'paultest-9d857',
+[info] >          webSocketOnly: false,
+[info] >          persistenceKey: '',
+[info] >          host: 'paultest-9d857.firebaseio.com',
+[info] >          domain: 'firebaseio.com',
+[info] >          internalHost: 'paultest-9d857.firebaseio.com' },
+[info] >       app:
+[info] >        FirebaseApp {
+[info] >          firebaseInternals_: [FirebaseNamespaceInternals],
+[info] >          services_: [Object],
+[info] >          isDeleted_: false,
+[info] >          name_: '[DEFAULT]',
+[info] >          options_: [Object],
+[info] >          INTERNAL: [FirebaseAppInternals] },
+[info] >       dataUpdateCount: 0,
+[info] >       statsListener_: null,
+[info] >       eventQueue_: EventQueue { eventLists_: [], recursionDepth_: 0 },
+[info] >       nextWriteId_: 1,
+[info] >       interceptServerDataCallback_: null,
+[info] >       onDisconnect_: SparseSnapshotTree { value_: null, children_: null },
+[info] >       persistentConnection_:
+[info] >        PersistentConnection {
+[info] >          repoInfo_: [RepoInfo],
+[info] >          onDataUpdate_: [Function: bound ],
+[info] >          onConnectStatus_: [Function: bound ],
+[info] >          onServerInfoUpdate_: [Function: bound ],
+[info] >          authTokenProvider_: [AuthTokenProvider],
+[info] >          authOverride_: undefined,
+[info] >          id: 0,
+[info] >          log_: [Function],
+[info] >          interruptReasons_: {},
+[info] >          listens_: {},
+[info] >          outstandingPuts_: [],
+[info] >          outstandingPutCount_: 0,
+[info] >          onDisconnectRequestQueue_: [],
+[info] >          connected_: false,
+[info] >          reconnectDelay_: 1000,
+[info] >          maxReconnectDelay_: 300000,
+[info] >          securityDebugCallback_: null,
+[info] >          lastSessionId: null,
+[info] >          establishConnectionTimer_: [Timeout],
+[info] >          visible_: true,
+[info] >          requestCBHash_: {},
+[info] >          requestNumber_: 0,
+[info] >          realtime_: null,
+[info] >          authToken_: null,
+[info] >          forceTokenRefresh_: false,
+[info] >          invalidAuthTokenCount_: 0,
+[info] >          firstConnection_: true,
+[info] >          lastConnectionAttemptTime_: null,
+[info] >          lastConnectionEstablishedTime_: null },
+[info] >       stats_: StatsCollection { counters_: {} },
+[info] >       server_:
+[info] >        PersistentConnection {
+[info] >          repoInfo_: [RepoInfo],
+[info] >          onDataUpdate_: [Function: bound ],
+[info] >          onConnectStatus_: [Function: bound ],
+[info] >          onServerInfoUpdate_: [Function: bound ],
+[info] >          authTokenProvider_: [AuthTokenProvider],
+[info] >          authOverride_: undefined,
+[info] >          id: 0,
+[info] >          log_: [Function],
+[info] >          interruptReasons_: {},
+[info] >          listens_: {},
+[info] >          outstandingPuts_: [],
+[info] >          outstandingPutCount_: 0,
+[info] >          onDisconnectRequestQueue_: [],
+[info] >          connected_: false,
+[info] >          reconnectDelay_: 1000,
+[info] >          maxReconnectDelay_: 300000,
+[info] >          securityDebugCallback_: null,
+[info] >          lastSessionId: null,
+[info] >          establishConnectionTimer_: [Timeout],
+[info] >          visible_: true,
+[info] >          requestCBHash_: {},
+[info] >          requestNumber_: 0,
+[info] >          realtime_: null,
+[info] >          authToken_: null,
+[info] >          forceTokenRefresh_: false,
+[info] >          invalidAuthTokenCount_: 0,
+[info] >          firstConnection_: true,
+[info] >          lastConnectionAttemptTime_: null,
+[info] >          lastConnectionEstablishedTime_: null },
+[info] >       statsReporter_:
+[info] >        StatsReporter {
+[info] >          server_: [PersistentConnection],
+[info] >          statsToReport_: {},
+[info] >          statsListener_: [StatsListener] },
+[info] >       transactionQueueTree_: Tree { name_: '', parent_: null, node_: [TreeNode] },
+[info] >       infoData_: SnapshotHolder { rootNode_: [ChildrenNode] },
+[info] >       infoSyncTree_:
+[info] >        SyncTree {
+[info] >          listenProvider_: [Object],
+[info] >          syncPointTree_: [ImmutableTree],
+[info] >          pendingWriteTree_: [WriteTree],
+[info] >          tagToQueryMap_: {},
+[info] >          queryToTagMap_: {} },
+[info] >       serverSyncTree_:
+[info] >        SyncTree {
+[info] >          listenProvider_: [Object],
+[info] >          syncPointTree_: [ImmutableTree],
+[info] >          pendingWriteTree_: [WriteTree],
+[info] >          tagToQueryMap_: {},
+[info] >          queryToTagMap_: {} },
+[info] >       __database:
+[info] >        Database {
+[info] >          repo_: [Circular],
+[info] >          root_: [Reference],
+[info] >          INTERNAL: [DatabaseInternals] } },
+[info] >    path: Path { pieces_: [ 'user' ], pieceNum_: 0 },
+[info] >    queryParams_:
+[info] >     QueryParams {
+[info] >       limitSet_: false,
+[info] >       startSet_: false,
+[info] >       startNameSet_: false,
+[info] >       endSet_: false,
+[info] >       endNameSet_: false,
+[info] >       limit_: 0,
+[info] >       viewFrom_: '',
+[info] >       indexStartValue_: null,
+[info] >       indexStartName_: '',
+[info] >       indexEndValue_: null,
+[info] >       indexEndName_: '',
+[info] >       index_: PriorityIndex {} },
+[info] >    orderByCalled_: false }
+[debug] [2019-05-27T04:12:31.706Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T04:12:31.706Z] 
+[debug] [2019-05-27T04:12:31.706Z] Running app in mode HTTPS
+[debug] [2019-05-27T04:12:31.707Z] {"socketPath":"/tmp/firebase_emulator_invocation_26323.sock"}
+[debug] [2019-05-27T04:12:31.708Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_26323.sock"}
+[debug] [2019-05-27T04:12:31.730Z] Ephemeral server used!
+[debug] [2019-05-27T04:12:31.743Z] Ephemeral server survived.
+[debug] [2019-05-27T04:12:33.982Z] Accepted request GET /paultest-9d857/us-central1/app/user --> app
+[debug] [2019-05-27T04:12:34.424Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T04:12:34.428Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:12:35.251Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[info] >  Reference {
+[info] >    repo:
+[info] >     Repo {
+[info] >       repoInfo_:
+[info] >        RepoInfo {
+[info] >          secure: true,
+[info] >          namespace: 'paultest-9d857',
+[info] >          webSocketOnly: false,
+[info] >          persistenceKey: '',
+[info] >          host: 'paultest-9d857.firebaseio.com',
+[info] >          domain: 'firebaseio.com',
+[info] >          internalHost: 'paultest-9d857.firebaseio.com' },
+[info] >       app:
+[info] >        FirebaseApp {
+[info] >          firebaseInternals_: [FirebaseNamespaceInternals],
+[info] >          services_: [Object],
+[info] >          isDeleted_: false,
+[info] >          name_: '[DEFAULT]',
+[info] >          options_: [Object],
+[info] >          INTERNAL: [FirebaseAppInternals] },
+[info] >       dataUpdateCount: 0,
+[info] >       statsListener_: null,
+[info] >       eventQueue_: EventQueue { eventLists_: [], recursionDepth_: 0 },
+[info] >       nextWriteId_: 1,
+[info] >       interceptServerDataCallback_: null,
+[info] >       onDisconnect_: SparseSnapshotTree { value_: null, children_: null },
+[info] >       persistentConnection_:
+[info] >        PersistentConnection {
+[info] >          repoInfo_: [RepoInfo],
+[info] >          onDataUpdate_: [Function: bound ],
+[info] >          onConnectStatus_: [Function: bound ],
+[info] >          onServerInfoUpdate_: [Function: bound ],
+[info] >          authTokenProvider_: [AuthTokenProvider],
+[info] >          authOverride_: undefined,
+[info] >          id: 0,
+[info] >          log_: [Function],
+[info] >          interruptReasons_: {},
+[info] >          listens_: {},
+[info] >          outstandingPuts_: [],
+[info] >          outstandingPutCount_: 0,
+[info] >          onDisconnectRequestQueue_: [],
+[info] >          connected_: false,
+[info] >          reconnectDelay_: 1000,
+[info] >          maxReconnectDelay_: 300000,
+[info] >          securityDebugCallback_: null,
+[info] >          lastSessionId: null,
+[info] >          establishConnectionTimer_: [Timeout],
+[info] >          visible_: true,
+[info] >          requestCBHash_: {},
+[info] >          requestNumber_: 0,
+[info] >          realtime_: null,
+[info] >          authToken_: null,
+[info] >          forceTokenRefresh_: false,
+[info] >          invalidAuthTokenCount_: 0,
+[info] >          firstConnection_: true,
+[info] >          lastConnectionAttemptTime_: null,
+[info] >          lastConnectionEstablishedTime_: null },
+[info] >       stats_: StatsCollection { counters_: {} },
+[info] >       server_:
+[info] >        PersistentConnection {
+[info] >          repoInfo_: [RepoInfo],
+[info] >          onDataUpdate_: [Function: bound ],
+[info] >          onConnectStatus_: [Function: bound ],
+[info] >          onServerInfoUpdate_: [Function: bound ],
+[info] >          authTokenProvider_: [AuthTokenProvider],
+[info] >          authOverride_: undefined,
+[info] >          id: 0,
+[info] >          log_: [Function],
+[info] >          interruptReasons_: {},
+[info] >          listens_: {},
+[info] >          outstandingPuts_: [],
+[info] >          outstandingPutCount_: 0,
+[info] >          onDisconnectRequestQueue_: [],
+[info] >          connected_: false,
+[info] >          reconnectDelay_: 1000,
+[info] >          maxReconnectDelay_: 300000,
+[info] >          securityDebugCallback_: null,
+[info] >          lastSessionId: null,
+[info] >          establishConnectionTimer_: [Timeout],
+[info] >          visible_: true,
+[info] >          requestCBHash_: {},
+[info] >          requestNumber_: 0,
+[info] >          realtime_: null,
+[info] >          authToken_: null,
+[info] >          forceTokenRefresh_: false,
+[info] >          invalidAuthTokenCount_: 0,
+[info] >          firstConnection_: true,
+[info] >          lastConnectionAttemptTime_: null,
+[info] >          lastConnectionEstablishedTime_: null },
+[info] >       statsReporter_:
+[info] >        StatsReporter {
+[info] >          server_: [PersistentConnection],
+[info] >          statsToReport_: {},
+[info] >          statsListener_: [StatsListener] },
+[info] >       transactionQueueTree_: Tree { name_: '', parent_: null, node_: [TreeNode] },
+[info] >       infoData_: SnapshotHolder { rootNode_: [ChildrenNode] },
+[info] >       infoSyncTree_:
+[info] >        SyncTree {
+[info] >          listenProvider_: [Object],
+[info] >          syncPointTree_: [ImmutableTree],
+[info] >          pendingWriteTree_: [WriteTree],
+[info] >          tagToQueryMap_: {},
+[info] >          queryToTagMap_: {} },
+[info] >       serverSyncTree_:
+[info] >        SyncTree {
+[info] >          listenProvider_: [Object],
+[info] >          syncPointTree_: [ImmutableTree],
+[info] >          pendingWriteTree_: [WriteTree],
+[info] >          tagToQueryMap_: {},
+[info] >          queryToTagMap_: {} },
+[info] >       __database:
+[info] >        Database {
+[info] >          repo_: [Circular],
+[info] >          root_: [Reference],
+[info] >          INTERNAL: [DatabaseInternals] } },
+[info] >    path: Path { pieces_: [ 'user' ], pieceNum_: 0 },
+[info] >    queryParams_:
+[info] >     QueryParams {
+[info] >       limitSet_: false,
+[info] >       startSet_: false,
+[info] >       startNameSet_: false,
+[info] >       endSet_: false,
+[info] >       endNameSet_: false,
+[info] >       limit_: 0,
+[info] >       viewFrom_: '',
+[info] >       indexStartValue_: null,
+[info] >       indexStartName_: '',
+[info] >       indexEndValue_: null,
+[info] >       indexEndName_: '',
+[info] >       index_: PriorityIndex {} },
+[info] >    orderByCalled_: false }
+[debug] [2019-05-27T04:12:35.678Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T04:12:35.679Z] 
+[debug] [2019-05-27T04:12:35.679Z] Running app in mode HTTPS
+[debug] [2019-05-27T04:12:35.679Z] {"socketPath":"/tmp/firebase_emulator_invocation_26381.sock"}
+[debug] [2019-05-27T04:12:35.680Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_26381.sock"}
+[debug] [2019-05-27T04:12:35.704Z] Ephemeral server used!
+[debug] [2019-05-27T04:12:35.705Z] Ephemeral server survived.
+[debug] [2019-05-27T04:13:00.118Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:13:01.589Z] Functions runtime initialized.
+[debug] [2019-05-27T04:13:01.595Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:13:02.679Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[debug] [2019-05-27T04:13:21.239Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:13:22.722Z] Functions runtime initialized.
+[debug] [2019-05-27T04:13:22.725Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:13:23.538Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[info] >  -------------------------------------------------------------
+[debug] [2019-05-27T04:14:30.076Z] Accepted request GET /paultest-9d857/us-central1/app/user --> app
+[debug] [2019-05-27T04:14:30.548Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T04:14:30.559Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:14:31.471Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[info] >  -------------------------------------------------------------
+[debug] [2019-05-27T04:14:31.827Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T04:14:31.828Z] 
+[debug] [2019-05-27T04:14:31.828Z] Running app in mode HTTPS
+[debug] [2019-05-27T04:14:31.853Z] {"socketPath":"/tmp/firebase_emulator_invocation_26687.sock"}
+[debug] [2019-05-27T04:14:31.854Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_26687.sock"}
+[debug] [2019-05-27T04:14:31.920Z] Ephemeral server used!
+[debug] [2019-05-27T04:14:31.928Z] Ephemeral server survived.
+[debug] [2019-05-27T04:19:29.461Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:19:30.954Z] Functions runtime initialized.
+[debug] [2019-05-27T04:19:30.956Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:19:31.748Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[info] >  -------------------------------------------------------------
+[debug] [2019-05-27T04:20:50.776Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:20:52.235Z] Functions runtime initialized.
+[debug] [2019-05-27T04:20:52.236Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:20:53.062Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[warn] ⚠  TypeError: console.log(...) is not a function
+    at Object.<anonymous> (/home/paul.xiao/Workspace/lab/firebase_api/functions/index.js:23:1)
+    at Module._compile (internal/modules/cjs/loader.js:702:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at /home/paul.xiao/npm_global/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:459:29
+    at Generator.next (<anonymous>)
+[warn] ⚠  Your function was killed because it raised an unhandled error.
+[debug] [2019-05-27T04:21:20.609Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:21:22.092Z] Functions runtime initialized.
+[debug] [2019-05-27T04:21:22.097Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:21:22.966Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[info] >  -------------------------------------------------------------
+[debug] [2019-05-27T04:22:09.307Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:22:10.774Z] Functions runtime initialized.
+[debug] [2019-05-27T04:22:10.777Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:22:11.578Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[warn] ⚠  TypeError: console.log(...) is not a function
+    at Object.<anonymous> (/home/paul.xiao/Workspace/lab/firebase_api/functions/index.js:23:1)
+    at Module._compile (internal/modules/cjs/loader.js:702:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at /home/paul.xiao/npm_global/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:459:29
+    at Generator.next (<anonymous>)
+[warn] ⚠  Your function was killed because it raised an unhandled error.
+[debug] [2019-05-27T04:22:17.618Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:22:19.082Z] Functions runtime initialized.
+[debug] [2019-05-27T04:22:19.084Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:22:19.860Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[warn] ⚠  TypeError: console.log(...) is not a function
+    at Object.<anonymous> (/home/paul.xiao/Workspace/lab/firebase_api/functions/index.js:23:1)
+    at Module._compile (internal/modules/cjs/loader.js:702:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at /home/paul.xiao/npm_global/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:459:29
+    at Generator.next (<anonymous>)
+[warn] ⚠  Your function was killed because it raised an unhandled error.
+[debug] [2019-05-27T04:22:27.411Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:22:28.838Z] Functions runtime initialized.
+[debug] [2019-05-27T04:22:28.840Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:22:29.638Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[warn] ⚠  TypeError: console.log(...) is not a function
+    at Object.<anonymous> (/home/paul.xiao/Workspace/lab/firebase_api/functions/index.js:23:1)
+    at Module._compile (internal/modules/cjs/loader.js:702:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at /home/paul.xiao/npm_global/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:459:29
+    at Generator.next (<anonymous>)
+[warn] ⚠  Your function was killed because it raised an unhandled error.
+[debug] [2019-05-27T04:22:58.966Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:23:00.412Z] Functions runtime initialized.
+[debug] [2019-05-27T04:23:00.417Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:23:01.190Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[warn] ⚠  TypeError: console.log(...) is not a function
+    at Object.<anonymous> (/home/paul.xiao/Workspace/lab/firebase_api/functions/index.js:23:1)
+    at Module._compile (internal/modules/cjs/loader.js:702:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at /home/paul.xiao/npm_global/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:459:29
+    at Generator.next (<anonymous>)
+[warn] ⚠  Your function was killed because it raised an unhandled error.
+[debug] [2019-05-27T04:23:06.887Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:23:08.370Z] Functions runtime initialized.
+[debug] [2019-05-27T04:23:08.372Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:23:09.173Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[warn] ⚠  TypeError: console.log(...) is not a function
+    at Object.<anonymous> (/home/paul.xiao/Workspace/lab/firebase_api/functions/index.js:23:1)
+    at Module._compile (internal/modules/cjs/loader.js:702:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at /home/paul.xiao/npm_global/lib/node_modules/firebase-tools/lib/emulator/functionsEmulatorRuntime.js:459:29
+    at Generator.next (<anonymous>)
+[warn] ⚠  Your function was killed because it raised an unhandled error.
+[debug] [2019-05-27T04:23:26.595Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:23:28.112Z] Functions runtime initialized.
+[debug] [2019-05-27T04:23:28.113Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:23:29.030Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[info] >  -------------------------------------------------------------
+[debug] [2019-05-27T04:23:31.782Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:23:33.219Z] Functions runtime initialized.
+[debug] [2019-05-27T04:23:33.220Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:23:33.993Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[info] >  -------------------------------------------------------------
+[debug] [2019-05-27T04:23:58.290Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:23:59.826Z] Functions runtime initialized.
+[debug] [2019-05-27T04:23:59.828Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:24:00.578Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[info] >  -------------------------------------------------------------
+[debug] [2019-05-27T04:24:12.300Z] Accepted request GET /paultest-9d857/us-central1/app/user --> app
+[debug] [2019-05-27T04:24:12.760Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T04:24:12.765Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:24:13.586Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[info] >  -------------------------------------------------------------
+[debug] [2019-05-27T04:24:13.919Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T04:24:13.920Z] 
+[debug] [2019-05-27T04:24:13.920Z] Running app in mode HTTPS
+[debug] [2019-05-27T04:24:13.933Z] {"socketPath":"/tmp/firebase_emulator_invocation_27876.sock"}
+[debug] [2019-05-27T04:24:13.935Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_27876.sock"}
+[debug] [2019-05-27T04:24:13.993Z] Ephemeral server used!
+[debug] [2019-05-27T04:24:14.000Z] Ephemeral server survived.
+[debug] [2019-05-27T04:28:49.407Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:28:50.844Z] Functions runtime initialized.
+[debug] [2019-05-27T04:28:50.848Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:28:51.594Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -------------------------------------------------------------
+[info] >  ---------------------------xx----------------------------------
+[debug] [2019-05-27T04:28:55.790Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:28:57.228Z] Functions runtime initialized.
+[debug] [2019-05-27T04:28:57.230Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:28:57.984Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -----------------------------xx--------------------------------
+[info] >  ---------------------------xx----------------------------------
+[debug] [2019-05-27T04:30:19.387Z] Accepted request GET /paultest-9d857/us-central1/app/user --> app
+[debug] [2019-05-27T04:30:19.828Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T04:30:19.830Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:30:20.648Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -----------------------------xx--------------------------------
+[info] >  ---------------------------xx----------------------------------
+[debug] [2019-05-27T04:30:20.960Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T04:30:20.960Z] 
+[debug] [2019-05-27T04:30:20.960Z] Running app in mode HTTPS
+[debug] [2019-05-27T04:30:20.984Z] {"socketPath":"/tmp/firebase_emulator_invocation_28306.sock"}
+[debug] [2019-05-27T04:30:20.985Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_28306.sock"}
+[debug] [2019-05-27T04:30:21.051Z] Ephemeral server used!
+[debug] [2019-05-27T04:30:21.057Z] Ephemeral server survived.
+[info] >  [2019-05-27T04:33:06.504Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: connect ETIMEDOUT 209.85.144.84:443.\"."} 
+[info] >  [2019-05-27T04:33:06.514Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: connect ETIMEDOUT 209.85.144.84:443.\"."} 
+[info] >  [2019-05-27T04:33:12.901Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: connect ETIMEDOUT 209.85.144.84:443.\"."} 
+[info] >  [2019-05-27T04:33:12.906Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: connect ETIMEDOUT 209.85.144.84:443.\"."} 
+[info] >  [2019-05-27T04:34:35.847Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: connect ETIMEDOUT 209.85.144.84:443.\"."} 
+[info] >  [2019-05-27T04:34:35.859Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: connect ETIMEDOUT 209.85.144.84:443.\"."} 
+[debug] [2019-05-27T04:35:31.695Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:35:33.310Z] Functions runtime initialized.
+[debug] [2019-05-27T04:35:33.315Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:35:34.114Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -----------------------------xxx--------------------------------
+[info] >  ---------------------------xx----------------------------------
+[info] Shutting down...
+[info] Shutting down...
+[debug] [2019-05-27T04:37:07.651Z] ----------------------------------------------------------------------
+[debug] [2019-05-27T04:37:07.654Z] Command:       /usr/bin/node /home/paul.xiao/npm_global/bin/firebase serve --only functions
+[debug] [2019-05-27T04:37:07.654Z] CLI Version:   6.10.0
+[debug] [2019-05-27T04:37:07.655Z] Platform:      linux
+[debug] [2019-05-27T04:37:07.655Z] Node Version:  v10.3.0
+[debug] [2019-05-27T04:37:07.655Z] Time:          Mon May 27 2019 12:37:07 GMT+0800 (CST)
+[debug] [2019-05-27T04:37:07.655Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-05-27T04:37:07.682Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-05-27T04:37:07.682Z] > authorizing via signed-in user
+[debug] [2019-05-27T04:37:07.682Z] [iam] checking project paultest-9d857 for permissions ["firebase.projects.get"]
+[debug] [2019-05-27T04:37:07.685Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2019-05-27T04:37:07.685Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2019-05-27T04:37:37.581Z] <<< HTTP RESPONSE 200
+[debug] [2019-05-27T04:37:37.598Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/paultest-9d857:testIamPermissions  
+
+[debug] [2019-05-27T04:37:50.155Z] Error: getaddrinfo ENOTFOUND cloudresourcemanager.googleapis.com cloudresourcemanager.googleapis.com:443
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:50:26)
+[error] 
+[error] Error: Server Error. getaddrinfo ENOTFOUND cloudresourcemanager.googleapis.com cloudresourcemanager.googleapis.com:443
+[debug] [2019-05-27T04:37:55.139Z] ----------------------------------------------------------------------
+[debug] [2019-05-27T04:37:55.142Z] Command:       /usr/bin/node /home/paul.xiao/npm_global/bin/firebase serve --only functions
+[debug] [2019-05-27T04:37:55.142Z] CLI Version:   6.10.0
+[debug] [2019-05-27T04:37:55.142Z] Platform:      linux
+[debug] [2019-05-27T04:37:55.142Z] Node Version:  v10.3.0
+[debug] [2019-05-27T04:37:55.142Z] Time:          Mon May 27 2019 12:37:55 GMT+0800 (CST)
+[debug] [2019-05-27T04:37:55.142Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-05-27T04:37:55.159Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-05-27T04:37:55.159Z] > authorizing via signed-in user
+[debug] [2019-05-27T04:37:55.159Z] [iam] checking project paultest-9d857 for permissions ["firebase.projects.get"]
+[debug] [2019-05-27T04:37:55.162Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/paultest-9d857:testIamPermissions  
+
+[debug] [2019-05-27T04:38:09.805Z] <<< HTTP RESPONSE 200
+[debug] [2019-05-27T04:38:09.812Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/paultest-9d857  
+ 
+[debug] [2019-05-27T04:38:13.989Z] <<< HTTP RESPONSE 200
+[info] ✔  functions: Using node@10 from host.
+[debug] [2019-05-27T04:38:14.024Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/605338498294:getServerAppConfig  
+ 
+[debug] [2019-05-27T04:38:24.623Z] <<< HTTP RESPONSE 200
+[info] ✔  functions: Emulator started at http://localhost:5000
+[info] i  functions: Watching "/home/paul.xiao/Workspace/lab/firebase_api/functions" for Cloud Functions...
+[debug] [2019-05-27T04:38:25.157Z] Functions runtime initialized.
+[debug] [2019-05-27T04:38:25.159Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:38:26.023Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -----------------------------xxx--------------------------------
+[info] >  ---------------------------xx----------------------------------
+[info] i  functions: HTTP trigger initialized at http://localhost:5000/paultest-9d857/us-central1/app
+[debug] [2019-05-27T04:39:22.143Z] Accepted request GET /paultest-9d857/us-central1/app/user --> app
+[debug] [2019-05-27T04:39:22.644Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T04:39:22.649Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:39:23.419Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -----------------------------xxx--------------------------------
+[info] >  ---------------------------xx----------------------------------
+[debug] [2019-05-27T04:39:23.810Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T04:39:23.811Z] 
+[debug] [2019-05-27T04:39:23.811Z] Running app in mode HTTPS
+[debug] [2019-05-27T04:39:23.839Z] {"socketPath":"/tmp/firebase_emulator_invocation_28820.sock"}
+[debug] [2019-05-27T04:39:23.845Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_28820.sock"}
+[debug] [2019-05-27T04:39:23.941Z] Ephemeral server used!
+[debug] [2019-05-27T04:39:23.947Z] Ephemeral server survived.
+[debug] [2019-05-27T04:39:54.644Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:39:56.247Z] Functions runtime initialized.
+[debug] [2019-05-27T04:39:56.254Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:39:57.588Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -----------------------------xxx--------------------------------
+[info] >  ---------------------------xx----------------------------------
+[debug] [2019-05-27T04:40:00.860Z] Accepted request GET /paultest-9d857/us-central1/app/user --> app
+[debug] [2019-05-27T04:40:01.324Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T04:40:01.329Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:40:02.086Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -----------------------------xxx--------------------------------
+[info] >  ---------------------------xx----------------------------------
+[debug] [2019-05-27T04:40:02.439Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T04:40:02.443Z] 
+[debug] [2019-05-27T04:40:02.446Z] Running app in mode HTTPS
+[debug] [2019-05-27T04:40:02.465Z] {"socketPath":"/tmp/firebase_emulator_invocation_28960.sock"}
+[debug] [2019-05-27T04:40:02.469Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_28960.sock"}
+[debug] [2019-05-27T04:40:02.552Z] Ephemeral server used!
+[debug] [2019-05-27T04:40:02.565Z] Ephemeral server survived.
+[info] i  functions: Finished "app" in ~1s
+[debug] [2019-05-27T04:40:25.713Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:40:27.319Z] Functions runtime initialized.
+[debug] [2019-05-27T04:40:27.321Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:40:28.156Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -----------------------------xxx--------------------------------
+[info] >  ---------------------------xx----------------------------------
+[debug] [2019-05-27T04:40:29.133Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:40:30.710Z] Functions runtime initialized.
+[debug] [2019-05-27T04:40:30.712Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:40:31.489Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -----------------------------xxx--------------------------------
+[info] >  ---------------------------xx----------------------------------
+[debug] [2019-05-27T04:42:59.490Z] Accepted request GET /paultest-9d857/us-central1/app/user --> app
+[debug] [2019-05-27T04:42:59.978Z] Functions runtime initialized.
+[info] i  functions: Beginning execution of "app"
+[debug] [2019-05-27T04:42:59.983Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:43:00.754Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -----------------------------xxx--------------------------------
+[info] >  ---------------------------xx----------------------------------
+[debug] [2019-05-27T04:43:01.181Z] Trigger "app" has been found, beginning invocation!
+[debug] [2019-05-27T04:43:01.183Z] 
+[debug] [2019-05-27T04:43:01.183Z] Running app in mode HTTPS
+[debug] [2019-05-27T04:43:01.191Z] {"socketPath":"/tmp/firebase_emulator_invocation_29203.sock"}
+[debug] [2019-05-27T04:43:01.195Z] [functions] Runtime ready! Sending request! {"socketPath":"/tmp/firebase_emulator_invocation_29203.sock"}
+[debug] [2019-05-27T04:43:01.246Z] Ephemeral server used!
+[debug] [2019-05-27T04:43:01.257Z] Ephemeral server survived.
+[debug] [2019-05-27T04:44:08.235Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:44:09.844Z] Functions runtime initialized.
+[debug] [2019-05-27T04:44:09.849Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:44:10.814Z] firebase-admin has been stubbed.
+[info] >  { type: 'service_account',
+[info] >    project_id: 'paultest-9d857',
+[info] >    private_key_id: 'd193681c7bc0be72a0a3d0fc5f7a3c54fefea241',
+[info] >    private_key:
+[info] >     '-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7xhpQbvsWfg1K\nFEK5PizW3hYeifJ5Ej8EA2w06etAwa4rprYFp0S+WrKM3wC8VyEkpsdEo3PA1AWP\n2WG+cnvxKJkQ1TebR2M83VVS6K12sJda4vdCu7E+dsLtQPvXvUTqwJ508cmGaGBX\n2v6+7MDSbF2I7sCDoUjtTtCykdc8w72wNYTH5K5q9yYsXausCv3dQAzx7gyZ27n1\ncpyg555Eae7sV7sU8ZzrGSXebItrjOy+1QEYhNwKuMbGy/KNlaHZf1eHgQSpXx+H\n0LwvDRbcFzAOMAH05b9J4awkDnStzjwHlvq3qQH/O4bWC+iceriGqJ2UJFXaLRkd\nNJbZ+IUJAgMBAAECggEADqZI/Ud7TWjuLn5gKkWgh+7xuNY4VZvH0M9XjNVHJlk1\n9m/eOZiwM02uKnFnhEoj6tEcMM2zxTKFcJCcIJib9NefAYIxAWtTYbc+5eYDSoRC\nerPEaK9uB5qKYKo2O8Gnc80tT6BhgZv5EEGkqE6eSIxty7YczOgzYVhJzfS03yef\nsrvILW8vIhEBJ/NXD455/KdsxNFRCVbBco/XlnSj1c3vMEJe1/aM2q/GMOiNfinG\nY2nPhea13s7Bdug9Cni+sGAveZT91OK6btZSUFBa5ty7787MaNYP1+7kXFocJL5w\nquNgE9cVQScdss8SKwIMhJPyjf/xWJwoAW2yS8Sk9QKBgQD/mZegXC55ofX2ZIk7\nHfgGS54JpXTLl20KTQXQ6vKwywz8TeN6TS8qp5pqYskO+Hs5LgibxKLEXLV1500O\nd3i7LCkObMJGw/0dy4RsLwuo7sStXmd2jB5kNPTDziT33YkIQgcS/oJVqB9GVnU4\nh7c+MElHZ50LUqNYkvtzFeeozwKBgQC8EVXl9kh6UVWKdPEUCJ1hDnujp+T1X5Hx\n7sG0UFtAxAbUkXVZcoX5CTvlqA/qEEVLXR4pKOmqDdAIPZbThzpu9RdoNWiA0ZPo\nuRsjQc/moZZDX3yhQebqOkornYlU0PEqsWHk28pXnNZQUuOYGChKFxAFhCxmSi3Y\nflJjVF26pwKBgFfJe+9i2b+C5gSLQSrhvycCX7Q2dKfcSWIpVB8OIu6fvsUFR2Th\nD5sZ14pEhYOzyja4XdKKNdE1ekmVeLzIQdofb7Z5mjxN4iiSltfFTL7nyvs0mlp4\nA5QtMAf0THQpTYBdlSpr6X3b8WnqFfalfkVItlJk/uY9qsaoLN65Hki3AoGAWXm1\n8G64FNnVZMY2XF2s4pxNXpNmbwdFHGGHbw48HBgnV8LMnf3Kl604/g5zY9zR2wU2\ncEayxOFFdGY49/KCbn/U3xNp4L/VKwfGTYPmMcf3AZ7QYLhF8HJDD3Un/V5bHwC9\nnnCjWAOaQyTse1Qi9vz59mXn6dKo9TNEZ1WgMkkCgYEAqnI07ST6A7vZ2aanWDkX\nqNlzVvcMjT+gd8Y+7IV+J9akha8z0TKztj6hgvCbykIJBlfslvWLUxg9r7YSCFc9\nTB29/8Qu66j+OLVSKg1v2FTozjauwbH+2jj+GwEP7ANnC2UXftKL8WstOV6DiR26\n/a45JAlkSnP20dE4b8JVjsA=\n-----END PRIVATE KEY-----\n',
+[info] >    client_email:
+[info] >     'firebase-adminsdk-fou7t@paultest-9d857.iam.gserviceaccount.com',
+[info] >    client_id: '116817655536339161169',
+[info] >    auth_uri: 'https://accounts.google.com/o/oauth2/auth',
+[info] >    token_uri: 'https://oauth2.googleapis.com/token',
+[info] >    auth_provider_x509_cert_url: 'https://www.googleapis.com/oauth2/v1/certs',
+[info] >    client_x509_cert_url:
+[info] >     'https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fou7t%40paultest-9d857.iam.gserviceaccount.com' }
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -----------------------------xxx--------------------------------
+[info] >  ---------------------------xx----------------------------------
+[debug] [2019-05-27T04:44:37.926Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:44:39.425Z] Functions runtime initialized.
+[debug] [2019-05-27T04:44:39.427Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:44:40.257Z] firebase-admin has been stubbed.
+[info] >  { type: 'service_account',
+[info] >    project_id: 'paultest-9d857',
+[info] >    private_key_id: 'd193681c7bc0be72a0a3d0fc5f7a3c54fefea241',
+[info] >    private_key:
+[info] >     '-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7xhpQbvsWfg1K\nFEK5PizW3hYeifJ5Ej8EA2w06etAwa4rprYFp0S+WrKM3wC8VyEkpsdEo3PA1AWP\n2WG+cnvxKJkQ1TebR2M83VVS6K12sJda4vdCu7E+dsLtQPvXvUTqwJ508cmGaGBX\n2v6+7MDSbF2I7sCDoUjtTtCykdc8w72wNYTH5K5q9yYsXausCv3dQAzx7gyZ27n1\ncpyg555Eae7sV7sU8ZzrGSXebItrjOy+1QEYhNwKuMbGy/KNlaHZf1eHgQSpXx+H\n0LwvDRbcFzAOMAH05b9J4awkDnStzjwHlvq3qQH/O4bWC+iceriGqJ2UJFXaLRkd\nNJbZ+IUJAgMBAAECggEADqZI/Ud7TWjuLn5gKkWgh+7xuNY4VZvH0M9XjNVHJlk1\n9m/eOZiwM02uKnFnhEoj6tEcMM2zxTKFcJCcIJib9NefAYIxAWtTYbc+5eYDSoRC\nerPEaK9uB5qKYKo2O8Gnc80tT6BhgZv5EEGkqE6eSIxty7YczOgzYVhJzfS03yef\nsrvILW8vIhEBJ/NXD455/KdsxNFRCVbBco/XlnSj1c3vMEJe1/aM2q/GMOiNfinG\nY2nPhea13s7Bdug9Cni+sGAveZT91OK6btZSUFBa5ty7787MaNYP1+7kXFocJL5w\nquNgE9cVQScdss8SKwIMhJPyjf/xWJwoAW2yS8Sk9QKBgQD/mZegXC55ofX2ZIk7\nHfgGS54JpXTLl20KTQXQ6vKwywz8TeN6TS8qp5pqYskO+Hs5LgibxKLEXLV1500O\nd3i7LCkObMJGw/0dy4RsLwuo7sStXmd2jB5kNPTDziT33YkIQgcS/oJVqB9GVnU4\nh7c+MElHZ50LUqNYkvtzFeeozwKBgQC8EVXl9kh6UVWKdPEUCJ1hDnujp+T1X5Hx\n7sG0UFtAxAbUkXVZcoX5CTvlqA/qEEVLXR4pKOmqDdAIPZbThzpu9RdoNWiA0ZPo\nuRsjQc/moZZDX3yhQebqOkornYlU0PEqsWHk28pXnNZQUuOYGChKFxAFhCxmSi3Y\nflJjVF26pwKBgFfJe+9i2b+C5gSLQSrhvycCX7Q2dKfcSWIpVB8OIu6fvsUFR2Th\nD5sZ14pEhYOzyja4XdKKNdE1ekmVeLzIQdofb7Z5mjxN4iiSltfFTL7nyvs0mlp4\nA5QtMAf0THQpTYBdlSpr6X3b8WnqFfalfkVItlJk/uY9qsaoLN65Hki3AoGAWXm1\n8G64FNnVZMY2XF2s4pxNXpNmbwdFHGGHbw48HBgnV8LMnf3Kl604/g5zY9zR2wU2\ncEayxOFFdGY49/KCbn/U3xNp4L/VKwfGTYPmMcf3AZ7QYLhF8HJDD3Un/V5bHwC9\nnnCjWAOaQyTse1Qi9vz59mXn6dKo9TNEZ1WgMkkCgYEAqnI07ST6A7vZ2aanWDkX\nqNlzVvcMjT+gd8Y+7IV+J9akha8z0TKztj6hgvCbykIJBlfslvWLUxg9r7YSCFc9\nTB29/8Qu66j+OLVSKg1v2FTozjauwbH+2jj+GwEP7ANnC2UXftKL8WstOV6DiR26\n/a45JAlkSnP20dE4b8JVjsA=\n-----END PRIVATE KEY-----\n',
+[info] >    client_email:
+[info] >     'firebase-adminsdk-fou7t@paultest-9d857.iam.gserviceaccount.com',
+[info] >    client_id: '116817655536339161169',
+[info] >    auth_uri: 'https://accounts.google.com/o/oauth2/auth',
+[info] >    token_uri: 'https://oauth2.googleapis.com/token',
+[info] >    auth_provider_x509_cert_url: 'https://www.googleapis.com/oauth2/v1/certs',
+[info] >    client_x509_cert_url:
+[info] >     'https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fou7t%40paultest-9d857.iam.gserviceaccount.com' }
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -----------------------------xxx--------------------------------
+[info] >  ---------------------------xx----------------------------------
+[info] >  [2019-05-27T04:44:42.731Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] >  [2019-05-27T04:44:42.742Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] >  [2019-05-27T04:44:43.917Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] >  [2019-05-27T04:44:44.532Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] >  [2019-05-27T04:44:46.722Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] >  [2019-05-27T04:44:49.216Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] >  [2019-05-27T04:44:51.163Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] >  [2019-05-27T04:44:53.325Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[debug] [2019-05-27T04:44:56.011Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:44:57.656Z] Functions runtime initialized.
+[debug] [2019-05-27T04:44:57.658Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:44:58.554Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -----------------------------xxx--------------------------------
+[info] >  ---------------------------xx----------------------------------
+[info] >  [2019-05-27T04:44:59.549Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] >  [2019-05-27T04:45:03.781Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] >  [2019-05-27T04:45:10.452Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] >  [2019-05-27T04:45:20.514Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] >  [2019-05-27T04:45:33.333Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] >  [2019-05-27T04:45:38.067Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] >  [2019-05-27T04:45:45.856Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] >  [2019-05-27T04:46:01.726Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] >  [2019-05-27T04:46:50.999Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] >  [2019-05-27T04:47:42.169Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[debug] [2019-05-27T04:47:44.076Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:47:44.552Z] File /home/paul.xiao/Workspace/lab/firebase_api/functions/index.js changed, reloading triggers
+[debug] [2019-05-27T04:47:46.163Z] Functions runtime initialized.
+[debug] [2019-05-27T04:47:46.165Z] Disabled runtime features: {"functions_config_helper":true,"network_filtering":true,"timeout":true,"memory_limiting":true,"protect_env":true,"admin_stubs":true}
+[debug] [2019-05-27T04:47:47.146Z] firebase-admin has been stubbed.
+[info] i  Your code has been provided a "firebase-admin" instance.
+[info] >  -----------------------------xxx--------------------------------
+[info] >  ---------------------------xx----------------------------------
+[info] >  [2019-05-27T04:47:55.267Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"Error fetching access token: Error while making request: getaddrinfo ENOTFOUND metadata.google.internal metadata.google.internal:80. Error code: ENOTFOUND\"."} 
+[info] Shutting down...
+[debug] [2019-05-27T04:48:40.504Z] ----------------------------------------------------------------------
+[debug] [2019-05-27T04:48:40.507Z] Command:       /usr/bin/node /home/paul.xiao/npm_global/bin/firebase serve --only functions
+[debug] [2019-05-27T04:48:40.507Z] CLI Version:   6.10.0
+[debug] [2019-05-27T04:48:40.507Z] Platform:      linux
+[debug] [2019-05-27T04:48:40.507Z] Node Version:  v10.3.0
+[debug] [2019-05-27T04:48:40.507Z] Time:          Mon May 27 2019 12:48:40 GMT+0800 (CST)
+[debug] [2019-05-27T04:48:40.507Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-05-27T04:48:40.524Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-05-27T04:48:40.525Z] > authorizing via signed-in user
+[debug] [2019-05-27T04:48:40.525Z] [iam] checking project paultest-9d857 for permissions ["firebase.projects.get"]
+[debug] [2019-05-27T04:48:40.527Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/paultest-9d857:testIamPermissions  
+
+[debug] [2019-05-27T04:51:54.689Z] Error: read ECONNRESET
+    at TLSWrap.onread (net.js:657:25)
+[error] 
+[error] Error: Server Error. read ECONNRESET
